@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FeedBackSystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FeedBackSystem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FeedBackSystem.war">
+      <element id="artifact" artifact-name="FeedBackSystem:war exploded" />
+    </root>
+  </artifact>
+</component>

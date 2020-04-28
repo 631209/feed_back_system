@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e3d9c9b-7ceb-4549-83e0-4266a405e51c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZtUXTRBa5BZSD41yuOl1pEdNln" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BatchFMSReports/pom.xml" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="FeedBackSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cognizant.FeedBackSystem.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3d9c9b-7ceb-4549-83e0-4266a405e51c" name="Default Changelist" comment="" />
+      <created>1585657923092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585657923092</updated>
+      <workItem from="1585657933849" duration="4340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="27" key="FileChooserDialogImpl" timestamp="1586170599843">
+      <screen x="0" y="0" width="1366" height="584" />
+    </state>
+    <state x="463" y="25" key="FileChooserDialogImpl/0.0.1366.536@0.0.1366.536" timestamp="1585664171931" />
+    <state x="463" y="27" key="FileChooserDialogImpl/0.0.1366.584@0.0.1366.584" timestamp="1586170599843" />
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom" timestamp="1585664417912">
+      <screen x="0" y="0" width="1366" height="536" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom/0.0.1366.536@0.0.1366.536" timestamp="1585664417912" />
+    <state width="1323" height="115" key="GridCell.Tab.0.center" timestamp="1585664417912">
+      <screen x="0" y="0" width="1366" height="536" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.center/0.0.1366.536@0.0.1366.536" timestamp="1585664417912" />
+    <state width="1323" height="115" key="GridCell.Tab.0.left" timestamp="1585664417912">
+      <screen x="0" y="0" width="1366" height="536" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.left/0.0.1366.536@0.0.1366.536" timestamp="1585664417912" />
+    <state width="1323" height="115" key="GridCell.Tab.0.right" timestamp="1585664417912">
+      <screen x="0" y="0" width="1366" height="536" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.right/0.0.1366.536@0.0.1366.536" timestamp="1585664417912" />
+  </component>
+</project>
